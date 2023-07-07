@@ -1,0 +1,147 @@
+/* .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  form input,
+  form button {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  form button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  p a {
+    color: blue;
+  }
+  
+  .dashboard {
+    margin-top: 40px;
+  }
+  
+  .points {
+    text-align: left;
+  }
+  
+  .hamburger-menu {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+  }
+  
+  .hamburger-icon {
+    width: 30px;
+    height: 4px;
+    background-color: black;
+    margin-bottom: 6px;
+  }
+   */
+/* 
+   .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .form-wrapper {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .login-section,
+  .signup-section {
+    width: 45%;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  form input,
+  form button {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  form button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  p a {
+    color: blue;
+  }
+   */
+   .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .form-wrapper {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .login-section,
+  .signup-section {
+    width: 45%;
+    display: none; /* Hide sections by default */
+  }
+  
+  .login-section.visible,
+  .signup-section.visible {
+    display: block; /* Show visible section */
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  form input,
+  form button {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  form button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  p a {
+    color: blue;
+  }
+  
